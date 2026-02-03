@@ -1,2 +1,4 @@
 # smart_attendance
-attendance system
+Smart Attendance System
+<br>
+used for attendance done by recognising faces
