@@ -1,4 +1,4 @@
-# smart_attendance
-Smart Attendance System
+# scam detactor
+Smart scam detactor
 <br>
-used for attendance done by recognising faces
+used for smartly detect scam
